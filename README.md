@@ -10,6 +10,9 @@
   <a href="https://github.com/rzakaan?tab=followers">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/rzakaan?color=green&logo=github">
   </a>
+  <a href="https://medium.com/@rzakaan">
+    <img alt="Medium" src="https://img.shields.io/badge/rzakaan-grey?style=flat&logo=medium">
+  </a>
   <a href="https://t.me/rizakaan">
     <img alt="Telegram" src="https://img.shields.io/badge/rizakaan-grey?style=flat&logo=telegram">
   </a>
