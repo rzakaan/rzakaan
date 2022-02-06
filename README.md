@@ -21,9 +21,9 @@
   </a>
 </p>
 
-- <img alt="GIF" src="./resource/hyperkitty.gif" width="20" /> &nbsp;&nbsp;&nbsp; I’m currently working on **Java Developer**
+- <img alt="GIF" src="./resource/hyperkitty.gif" width="20" /> &nbsp;&nbsp;&nbsp; I’m currently working as a **Java Developer**
 - <img alt="GIF" src="./resource/hyperkitty.gif" width="20" /> &nbsp;&nbsp;&nbsp; I’m currently learning **Flutter | Advanced Python | Docker | Clouds**
-- <img alt="GIF" src="./resource/hyperkitty.gif" width="20" /> &nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**.
+- <img alt="GIF" src="./resource/hyperkitty.gif" width="20" /> &nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux | C++**.
 - <img alt="GIF" src="./resource/letterbox.gif" width="20" />  &nbsp;&nbsp;&nbsp; Ask me anything on my **[issues page]**
 - <img alt="GIF" src="./resource/message.gif" width="20" />    &nbsp;&nbsp;&nbsp; Connect with me on **[LinkedIn] or [Telegram]**
 
